@@ -1,0 +1,30 @@
+{
+  "id": "nl.webbuilds.plugwise",
+  "version": "1.0.0",
+  "compatibility": ">=12.4.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Plugwise"
+  },
+  "description": {
+    "en": "Adds support for Plugwise Emma thermostat.",
+    "nl": "Voegt ondersteuning toe voor de Plugwise Emma thermostaat."
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "brandColor": "#00A651",
+  "author": {
+    "name": "Dennis Smink",
+    "email": "dennissmink@gmail.com"
+  }
+}
